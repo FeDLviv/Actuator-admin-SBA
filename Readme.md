@@ -1,3 +1,3 @@
 # Spring Boot Admin (server)
 
-* [Spring Boot Admin 2.0.4](https://github.com/codecentric/spring-boot-admin)
+* [Spring Boot Admin 2.1.2](https://github.com/codecentric/spring-boot-admin)
