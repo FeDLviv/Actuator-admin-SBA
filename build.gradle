@@ -28,6 +28,10 @@ ext {
 
 dependencies {
 
+    //Spring Boot
+    implementation('org.springframework.boot:spring-boot-starter-web')
+    implementation('org.springframework.boot:spring-boot-starter-security')
+
     //Spring Boot Admin
     implementation('de.codecentric:spring-boot-admin-starter-server')
 
